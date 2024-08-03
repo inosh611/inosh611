@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>javascript</p>
+<img src="https://www.google.com/search?q=javascript+icon+png&sca_esv=70d40dc007ec4b6e&sca_upv=1&sxsrf=ADLYWIKQFqBe7srigpAe3eSG9nBxByk76g%3A1722659400727&ei=SLKtZo2OLLTG4-EPsLyKuAE&oq=javascript+icon&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2phdmFzY3JpcHQgaWNvbioCCAAyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyDRAAGIAEGLADGEMYigUyDRAAGIAEGLADGEMYigVI7R1QAFgAcAF4AZABAJgBAKABAKoBALgBA8gBAJgCAaACBZgDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp#vhid=Ai7GzD7M36YkiM&vssid=l"><p>javascript</p>
 <p>Php</p>
 <p>Java</p>
 <p>Python</p>
