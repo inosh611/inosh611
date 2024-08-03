@@ -21,9 +21,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>javascript</p>
-<p>Php</p>
-<p>Java</p>
-<p>Python</p>
+<p># Php</p>
+<p># Java</p>
+<p># Python</p>
+<p># Laravel</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inosh611&show_icons=true&locale=en&layout=compact" alt="inosh611" /></p>
 
