@@ -39,9 +39,4 @@ I am a passionate Full-Stack Engineer from Sri Lanka with a strong focus on buil
 
 ---
 
-### 🤝 Let's Connect
-<p align="left">
-<a href="https:linkedin.com/in/inosh-harsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Inosh Harsha" height="30" width="40" /></a>
-<a href="mailto:your.email@example.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
-</p>
 
