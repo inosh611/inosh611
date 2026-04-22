@@ -15,7 +15,6 @@ I am a passionate Full-Stack Engineer from Sri Lanka with a strong focus on buil
 
 - 🚀 Currently developing the **Transco Cargo** logistics platform and **eMedi** Healthcare system.
 - 🧠 Deeply invested in **Artificial Intelligence**; published research at the **AIRC Conference**.
-- 🛠️ Founder of **MatroLab**, a software development startup.
 - 💻 Primary Environment: **Ubuntu (Linux)**.
 - ⚡ Fun fact: I enjoy architecting systems using **Microservices** and **Event-Driven** patterns.
 
@@ -53,4 +52,3 @@ I am a passionate Full-Stack Engineer from Sri Lanka with a strong focus on buil
 <a href="mailto:your.email@example.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
-<p align="center"> Built with ❤️ by **Inosh Harsha** </p>
